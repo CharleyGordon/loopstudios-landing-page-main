@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/CharleyGordon/loopstudios-landing-page-main
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://charleygordon.github.io/loopstudios-landing-page-main
 
 ## My process
 
